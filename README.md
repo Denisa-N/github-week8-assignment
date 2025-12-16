@@ -1,4 +1,6 @@
 # github-week8-assignment
+Creating a repository with GitHub worklow attached to it.
+
 # GitHub Actions Assignment
 
 This repository was created for a university assignment to demonstrate the use of
